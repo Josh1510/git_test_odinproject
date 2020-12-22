@@ -1,3 +1,3 @@
 # learning-odin-project
 
-this is a test
+First Git Tests
